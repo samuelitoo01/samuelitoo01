@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hola, soy Samuel
 
-<!--
-**samuelitoo01/samuelitoo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador de software en formación  
+🎓 Estudiante en el SENA  
+🚀 En camino a convertirme en Full Stack Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+
+---
+
+## 📌 Proyectos destacados
+- 🔐 Login con JWT y MySQL  
+- 📦 API REST con Node.js  
+- 🤖 Clon básico de ChatGPT  
+
+---
+
+## 📫 Contacto
+📧 Email: tuemail@gmail.com  
+💼 LinkedIn: (cuando lo tengas)
+
+---
+
+💡 *Aprendiendo todos los días y construyendo proyectos reales.*
