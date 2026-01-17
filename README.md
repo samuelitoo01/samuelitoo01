@@ -29,5 +29,5 @@
 
 ---
 
-💡 *Continuously learning and building real-world projects.*
+💡 *Continuously learning and building real-world projects.* 
 
